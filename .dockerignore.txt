@@ -1,0 +1,7 @@
+.bundle
+log/*
+tmp/*
+node_modules
+.git
+.env
+coverage
