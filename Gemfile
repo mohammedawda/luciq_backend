@@ -11,7 +11,7 @@ gem "puma", ">= 5.0"
 
 gem 'redis', '~> 5.0'
 gem 'sidekiq'
-gem 'elasticsearch', '~> 7.0'
+gem 'elasticsearch', '~> 8.19'
 # optional helper
 gem 'elasticsearch-model'
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
