@@ -84,7 +84,7 @@ This approach prevents race conditions and allows the API to remain highly perfo
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/luciq_backend.git
+git clone https://github.com/mohammedawda/luciq_backend.git
 cd luciq_backend
 
 ```To start everything, simply run:
